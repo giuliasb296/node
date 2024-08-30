@@ -1,0 +1,5 @@
+node index
+n
+npm install bootstrap
+npm install ejs
+doskey /h>comandos.txt

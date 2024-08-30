@@ -1,0 +1,4 @@
+index.js
+doskey /h Comandos.txt
+code .
+doskey /h  >Comandos.txt
